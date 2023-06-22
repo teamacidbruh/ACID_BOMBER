@@ -11,7 +11,7 @@
      pip install requests
      pip install bs4
      pip install rich
-     git clone 
+     git clone https://github.com/teamacidbruh/ACID_BOMBER 
      cd ACID_BOMBER
      ls
      python sms_bomber
